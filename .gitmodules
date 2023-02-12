@@ -1,3 +1,6 @@
 [submodule "api"]
 	path = api
 	url = git@github.com:shijiayao-main/api.git
+[submodule "common"]
+	path = common
+	url = git@github.com:shijiayao-main/common.git
